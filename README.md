@@ -2,7 +2,7 @@
 script to calculate summary for stock market information provided in an excel file.
 
 
-It was uploaded a .bas file with VBA code as is was export in VBA excel tool.
+It was uploaded a .bas file with VBA code as is was export in VBA excel tool (the file with VBA extension has the same code)
 I coded several private function to optimize the code encapsulating rutines that must run several times.
 
 the pubic function, that is the macro that needs to be executed is the one on the next image.
